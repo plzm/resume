@@ -7,3 +7,5 @@ You can select the files above or use the direct download links. If a file displ
 - JSON Resume file: [PatrickEl-Azem.Resume.json](https://github.com/plzm/resume/raw/main/PatrickEl-Azem.Resume.json)
 
 For more information about me, please visit my [LinkedIn profile](https://www.linkedin.com/in/pelazem/).
+
+![Lint JSON Resume](https://github.com/plzm/resume/actions/workflows/Lint.yml/badge.svg)
