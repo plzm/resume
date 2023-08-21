@@ -1,5 +1,5 @@
 ---
-name: Lint Files
+name: Lint JSON Resume
 
 on:
   workflow_dispatch:
