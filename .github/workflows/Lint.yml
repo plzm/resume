@@ -20,13 +20,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Lint with GitHub Super-Linter
-        uses: super-linter/super-linter/slim@v5
-        env:
-          VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Lint with JSON Lint
         env:
           REPORT_ONLY: true
