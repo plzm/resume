@@ -1,0 +1,508 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Patrick El-Azem",
+    "label": "Cloud Architecture, Software Development, Applied AI and Analytics, Data Engineering, DevOps/Automation and Cybersecurity",
+    "image": "",
+    "email": "p@elazem.com",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced, personable hands-on technologist focused on rapid, pragmatic, iterative delivery. Multi-certified Azure expert.\nCloud Architecture, Software Development, Applied AI and Analytics, Data Engineering, DevOps/Automation and Cybersecurity.\nSkilled technical seller, consultant, presenter. I listen, learn, create clarity, and help to deliver success.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pelazem",
+        "url": "https://www.linkedin.com/in/pelazem/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SES Satellites",
+      "position": "Azure Architect | DevOps Engineer | Data Engineer",
+      "startDate": "2022-05-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Azure Architecture and Infrastructure Automation | DevOps Automation, CI/CD, Dev Lifecycle | Cybersecurity\n\n\"Capacity Planning and Optimization - Next Generation\" - first cloud-native platform for SES O3b mPOWER MEO satellite constellation",
+      "url": "https://www.linkedin.com/company/ses/"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Azure Cybersecurity Engineer",
+      "startDate": "2022-10-31",
+      "endDate": "2023-06-30",
+      "highlights": [],
+      "summary": "Microsoft Security | Digital Security & Risk Engineering\n\nAzure cybersecurity engineering and technical remediation for core enterprise platforms.",
+      "url": "https://www.linkedin.com/company/microsoft/"
+    },
+    {
+      "name": "EPAM Systems",
+      "position": "Azure Migration",
+      "startDate": "2022-01-31",
+      "endDate": "2022-04-30",
+      "highlights": [],
+      "summary": "Lead Azure migration planning and execution efforts on client projects.",
+      "url": "https://www.linkedin.com/company/epam-systems/",
+      "location": "Pennsylvania, United States"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Global Cloud Solution Architect",
+      "startDate": "2021-04-30",
+      "endDate": "2021-12-31",
+      "highlights": [],
+      "summary": "Customer Success | Azure Architecture | AppDev Innovation focus",
+      "url": "https://www.linkedin.com/company/microsoft/"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Senior Cloud Solution Architect",
+      "startDate": "2019-07-31",
+      "endDate": "2021-04-30",
+      "highlights": [],
+      "summary": "I help Microsoft customers succeed on Azure with architecture design, proofs of concept and pilots, hackathons, and ongoing strategic technology engagement and leadership.",
+      "url": "https://www.linkedin.com/company/microsoft/"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Program Manager - Azure Cosmos DB",
+      "startDate": "2020-02-28",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": "Program Manager with the Azure Cosmos DB Product Group. Time-bound career development / role rotation program through which Microsoft provides technical employees world-wide the opportunity to experience HQ/product roles.\nIn this role, I created documentation, sample code, hands-on labs, demo applications, blog posts and other deliverables to help developers and customers succeed on Cosmos DB.",
+      "url": "https://www.linkedin.com/company/microsoft/"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Cloud Solution Architect",
+      "startDate": "2015-11-30",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": "I help Microsoft customers succeed on Azure with architecture design, proofs of concept and pilots, hackathons, and ongoing technical engagement and leadership.",
+      "url": "https://www.linkedin.com/company/microsoft/",
+      "location": "Northeast US"
+    },
+    {
+      "name": "Cloud NH Meetup",
+      "position": "Founder and Organizer",
+      "startDate": "2018-02-28",
+      "endDate": "2020-02-28",
+      "highlights": [],
+      "summary": "Join us at: https://www.meetup.com/CloudNH\n\nNew Hampshire's first meetup focused on the public clouds! We meet monthly for technical sessions that center around architecting, developing, and delivering solutions on the major public clouds (AWS, Azure, GCP).\n\nI founded the meetup and brought on two co-organizers. I have also delivered several deep technical sessions.",
+      "url": "",
+      "location": "Manchester, New Hampshire"
+    },
+    {
+      "name": "4D Technologies",
+      "position": "Director of Technology and Platforms / Lead Developer",
+      "startDate": "2012-11-30",
+      "endDate": "2015-11-30",
+      "highlights": [],
+      "summary": "Architected, developed, and implemented SaaS platform for leading e-learning provider. Migrated entire platform to cloud with zero unplanned downtime. Built automated system and pipelines to ingest, process, transcode, and deploy content, video, and media to customers, partners, and publishers world-wide.\n\nConsolidated customer content and data from 120+ unique web sites and repositories into multi-tenant web portal, master data repository, and customer-available data warehouse.\n\nBuilt and led dev/ops team. Maintained technology roadmap and strategy to drive team and leadership planning. Instituted consistent support and development practices and metrics, resulting in ongoing 99%+ customer satisfaction ratings. Automated deployment processes, improving quality and delivery velocity.",
+      "url": "https://www.linkedin.com/company/cadlearning/",
+      "location": "NH"
+    },
+    {
+      "name": "Net Gain Solutions",
+      "position": "Consultant",
+      "startDate": "2003-12-31",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "Provide IT consulting including software and database development, cloud/SaaS integration and transition, and strategy/IT operations. Details available.\n\nClients/engagement include:\n- Borealis Ventures\n- Middle East Bakery\n- Nexamp Inc.\n- Horizon Beverage Company\n- American Health Centers, Inc.\n- Liberty International Underwriters\n- Override\n- C&J\n- Global Relief Technologies\n- Fidelity Investments",
+      "url": ""
+    },
+    {
+      "name": "Override",
+      "position": "Sr. Developer (Consultant)",
+      "startDate": "2009-12-31",
+      "endDate": "2011-12-31",
+      "highlights": [],
+      "summary": "Developed/maintained web services for B2B integrations; internal applications; and test suites.\n\nDesigned scaling and archival strategy for large financial databases. Built continuous integration environment and development/testing environments with domain, virtualized data and application nodes, and load balancing.",
+      "url": ""
+    },
+    {
+      "name": "Global Relief Technologies",
+      "position": "Senior Developer (Consultant)",
+      "startDate": "2007-12-31",
+      "endDate": "2009-12-31",
+      "highlights": [],
+      "summary": "Led team that delivered web application to manage supply chain and performance data for active force protection systems deployed to combat theaters. Maintained parallel release tracks.\n\nImplemented iterative lifecycle and ALM solution. Budgeted and implemented development environment and document management solution with secure external partner access.",
+      "url": "https://www.linkedin.com/company/global-relief-technologies/"
+    },
+    {
+      "name": "OneSourceID",
+      "position": "Architect/developer",
+      "startDate": "2007-12-31",
+      "endDate": "2007-12-31",
+      "highlights": [],
+      "summary": "Designed and implemented prototype multi-factor authentication system to eliminate proprietary hardware tokens and comply with updated financial industry data protection regulations.",
+      "url": ""
+    },
+    {
+      "name": "Message Secure Corporation",
+      "position": "Director of Operations",
+      "startDate": "2005-12-31",
+      "endDate": "2005-12-31",
+      "highlights": [],
+      "summary": "Created IT Operations and Compliance departments at financial-industry security provider. Led response to federal (FDIC, FFIEC) examination.\n\nInitiated COBIT IT control framework implementation for SAS 70 certification process.",
+      "url": "https://www.linkedin.com/company/message-secure-corporation/"
+    },
+    {
+      "name": "Trade Wings Inc.",
+      "position": "Lead Developer, IT Manager",
+      "startDate": "2000-12-31",
+      "endDate": "2005-12-31",
+      "highlights": [],
+      "summary": "Developed web-based supply-chain and procurement software used internally and by clients. Co-created novel algorithms for inventory visibility and procurement optimization, which enabled new customer wins.\n\nManaged IT operations and infrastructure. Helped achieve ISO 9001:2000 certification.",
+      "url": "https://www.linkedin.com/company/trade-wings/"
+    },
+    {
+      "name": "Furniture.com",
+      "position": "Senior Developer",
+      "startDate": "1998-12-31",
+      "endDate": "2000-12-31",
+      "highlights": [],
+      "summary": "Built leading B2C site with numerous releases in fast-paced environment; promoted to team lead.",
+      "url": ""
+    },
+    {
+      "name": "CGI (was Deloitte Consulting/DRT Systems)",
+      "position": "Consultant",
+      "startDate": "1998-12-31",
+      "endDate": "1998-12-31",
+      "highlights": [],
+      "summary": "Member of team that developed Liberty Mutual’s first web/Java claims-processing application.",
+      "url": ""
+    },
+    {
+      "name": "David Bowie",
+      "position": "Consultant Developer",
+      "startDate": "1998-12-31",
+      "endDate": "1998-12-31",
+      "highlights": [],
+      "summary": "Created pop star’s first B2C site (www.bowieart.com), validating later Bowie online ventures.",
+      "url": ""
+    },
+    {
+      "name": "Artificial Life",
+      "position": "Systems Administrator",
+      "startDate": "1996-12-31",
+      "endDate": "1998-12-31",
+      "highlights": [],
+      "summary": "Managed IT infrastructure, operations, and web site. Implemented client infrastructure.",
+      "url": "https://www.linkedin.com/company/artificial-life/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "TRC Environmental Corporation",
+      "position": "Environmental Engineer",
+      "startDate": "1995-12-31",
+      "endDate": "1996-12-31",
+      "highlights": [],
+      "summary": "Performed Clean Air Act plant audits, permitting, and compliance for clients like General Motors.\nCreated first company web site. Got budget approved and deployed network and infrastructure.",
+      "url": "",
+      "location": "Lowell, MA"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "TechRamp",
+      "position": "Founder and Teacher",
+      "startDate": "2012-12-31",
+      "endDate": "2014-12-31",
+      "summary": "Founded non-profit to teach business technology skills to asylum seeker refugees who have been resettled to New Hampshire, with goal of helping members of underserved communities gain basic employment skills.\n\nDesigned course curricula and examinations. Worked with interpreters to teach classes to non-English speakers. Procured equipment. Issued certificates to students who finished courses and passed final exams.\n",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "California Institute of Technology",
+      "area": "Engineering & Applied Science",
+      "studyType": "BS",
+      "startDate": "1988-12-31",
+      "endDate": "1994-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "International Baccalaureate (IB)",
+      "area": "",
+      "studyType": "",
+      "startDate": "1986-12-31",
+      "endDate": "1988-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "FY16 Circle of Excellence Top Subsidiary",
+      "date": "2016-12-31",
+      "awarder": "Microsoft",
+      "summary": ""
+    },
+    {
+      "title": "FY16 Q1 Cloud & Enterprise Hero: Customer Obsession",
+      "date": "2016-10-31",
+      "awarder": "Microsoft",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Please see LinkedIn profile for full list",
+      "issuer": "Multiple",
+      "url": "https://www.linkedin.com/in/pelazem/details/certifications/"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cloud Architecture + Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Development, DevOps, Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Applied AI + Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Modeling and Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infrastructure, Automation, Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Sales, Consulting, Presenting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership + Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Program + Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure AI Cognitive Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Synapse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Cosmos DB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure App Services/Functions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Kubernetes Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET/C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git/GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub Actions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Powershell",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure CLI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Resource Manager (ARM) Templates",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development Life Cycle (SDLC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SDLC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-commerce",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "French"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "German"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Joseph Ibarra, PMP",
+      "reference": "Patrick worked for me as a contractor at Microsoft for slightly over 1 year. His core responsibility was providing internal employees across the company with remediation support to improve the security of their Azure subscriptions. I can recall my first interaction with Patrick – it was to determine if he was a good fit for the role. He was very well prepared, precise and calculated, and amazed me. It was a no-brainer to bring him on and it was like finding a diamond in the rough. Patrick would go on to amaze me throughout his engagement. \n\nHere are 3 things that stood out about Patrick:\n1.\tTechnical Excellence: Patrick really knows his stuff, especially Azure. He is the type to dig in, reproduce an issue for his own learning and to put himself in the shoes of the customer. He is naturally the type that likes to learn by doing. He thinks outside the box on how to solve different technical challenges.\n2.\tContributions to the Success of Others: Patrick is a nature born leader. He is not only a great employee, but a peer to his co-workers. He volunteers to help them and is genuinely interested in helping them learn and grow. For example, Patrick put together a set of PowerShell scripts to make his job easier and documented his learnings throughout his engagement in a OneNote. He shared these with his peers (even though nobody asked him to) and these resources are now used as onboarding guides for new hires. Often times, his peers will come to him for help and he is always willing to partner.\n3.\tExcellent Communications and Customer Service Skills: One of Patrick’s biggest strengths is his ability to explain the most complex technical issue to a non-technical person. This makes him very versatile in being able to influence a diverse range of audience from senior management to hardcore engineers. I never hesitated to bring Patrick into a meeting with senior leadership as he intuitively knew at what altitude to keep the conversation. Customers raved about working with Patrick and his outstanding customer service – he was a key reason why we were able to achieve an all time high customer satisfaction score. Finally, Patrick is accountable for what he says and does. I never had to follow-up with him. He was great at managing up, setting expectations, and always exceeded my expectations.\n\nThank you Patrick for helping to make Microsoft more secure. I hope we get to work together again really soon!"
+    },
+    {
+      "name": "Ayman El-Ghazali",
+      "reference": "Patrick has been an amazing colleague, mentor, and friend to me over the last few years at Microsoft.  His passion for excellence is contagious.  His knowledge depth and breadth sets him apart from many people that I have meet throughout my career.  If he doesn't know the answer he will find it! He's a great motivator and a great listener.  More importantly than all this he is very genuine and authentic at the highest levels of professionalism.  You know that you are dealing with someone that has a deep concern for truth and doing what is right in all aspects of life and helping others achieve their best.  El-Azem means \"The Great\" and Patrick truly is one of the greatest people that I've crossed paths with.  Thank you for your leadership and your guidance!"
+    },
+    {
+      "name": "Richard Weeks",
+      "reference": "Patrick is a very rare commodity in the software engineering world. He combines outstanding technical prowess in his software engineering abilities coupled with drive and intelligence in team leadership skills that in my 30+ years as a software contractor I have rarely seen matched. I have had the pleasure of working with him at both 4D technologies and at Global Relief Technologies. Your organization can only benefit by bringing him on board."
+    },
+    {
+      "name": "Cheri Reed",
+      "reference": "I worked with Patrick at 4D Technologies and he was an amazing leader!  His technical expertise was unlike any other I have experienced.  A true leader!  He managed projects with clear, definitive and realistic tasks.   It was a pleasure working with him."
+    },
+    {
+      "name": "June Denis",
+      "reference": "I've worked with Patrick at GRT and 4D Technologies. His attention to detail and knowledge in software project management gives everyone a clear sense of direction and responsibility. Patrick is an adept problem solver and one of the most organized, concise thinkers I have ever had the pleasure of working with."
+    },
+    {
+      "name": "Chuda Niroula",
+      "reference": "Hi patrick,\r\nIt was my pleasure that first you were my teacher and a friend. I enjoyed and learnt a lot of things during the session we worked to teach advanced computer to youth of our community. hopefully i'm expecting to continue advanced computer course to Bhutanese youth which will help them further.\r\n\r\nI on my behalf and and on behalf of Bhutanese community of NH would like to thank you for your hard work as a advanced computer Instructor.Your small contribution helps Bhutanese folks in their daily life specially who got opportunity complete their course.\r\n\r\nThsnk you for your support and contribution."
+    },
+    {
+      "name": "AnnMarie Nolin",
+      "reference": "AHCI hired Patrick as an IT Consultant to help me sort through a server upgrade program. Patrick's concised, detailed questions not only guided me through the necessary terrain I was unfamiliar with, but allowed me to gain knowledge of the IT world that I never expected. We are very pleased with the guidance Patrick provided and are even more pleased with the option we chose with Patrick's help."
+    },
+    {
+      "name": "Bonnie Jean Butler",
+      "reference": "Patrick is a great leader of technology teams, understands sophisticated technical barriers and strives for technological breakthroughs.  He continues to demonstrate a high level of technical expertise and recognizes the value of technical team dynamics. He ROCKS! \r\n\r\nDr. BonnieJean Butler, President\r\nButler Global Consulting"
+    },
+    {
+      "name": "Jamie Lesniak",
+      "reference": "Affordable IT solutions for all size companies!  Patrick help C&J accomplish our needs as well as worked as a liason between other IT company dealings.  Trustworthy, and upfront in all aspects."
+    },
+    {
+      "name": "Sebastien Aube",
+      "reference": "Patrick has the experience and ability to achieve success in most if not all software projects. I would definitely work with him again."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
