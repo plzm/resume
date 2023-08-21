@@ -1,0 +1,36 @@
+---
+name: Lint Files
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - develop
+      - 'feature/*'
+      - 'fix/*'
+      - 'release/*'
+  pull_request:
+    branches:
+      - develop
+      - main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Lint with GitHub Super-Linter
+        uses: super-linter/super-linter/slim@v5
+        env:
+          VALIDATE_ALL_CODEBASE: false
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Lint with JSON Lint
+        env:
+          REPORT_ONLY: true
+          SHOW_ERRORS: true
+          SHOW_SKIPPED: true
+        run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)
+...
