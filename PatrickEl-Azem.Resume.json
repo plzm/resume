@@ -7,7 +7,7 @@
     "email": "p@elazem.com",
     "phone": "",
     "url": "",
-    "summary": "Experienced, personable hands-on technologist focused on rapid, pragmatic, iterative delivery. Multi-certified Azure expert.\nCloud Architecture, Software Development, Applied AI and Analytics, Data Engineering, DevOps/Automation and Cybersecurity.\nSkilled technical seller, consultant, presenter. I listen, learn, create clarity, and help to deliver success.",
+    "summary": "About Me \n Experienced, personable hands-on technologist focused on rapid, pragmatic, iterative delivery. Multi-certified Azure expert. \n Cloud Architecture, Software Development, Applied AI and Analytics, Data Engineering, DevOps/Automation and Cybersecurity. \n Skilled technical seller, consultant, presenter. I listen, learn, create clarity, and help to deliver success. \n Objective \n Technical lead/delivery role in product/platform engineering and program management, technical sales, consulting. Hybrid or Remote. \n Domains: cloud, architecture, data/applied AI, development/DevOps, integration/automation.",
     "location": {
       "countryCode": "US",
       "address": "United States"
@@ -23,11 +23,11 @@
   "work": [
     {
       "name": "SES Satellites",
-      "position": "Azure Architect | DevOps Engineer | Data Engineer",
+      "position": "Cloud Architect, DevOps Engineer, Data Engineer",
       "startDate": "2022-05-31",
       "endDate": "",
       "highlights": [],
-      "summary": "Led Azure architecture, DevOps engineering, infrastructure automation, .NET/Python development, integration, data engineering and cybersecurity compliance for cloud-native greenfield revenue optimization and yield management platforms.",
+      "summary": "Azure architecture, DevOps engineering, infrastructure automation, .NET/Python development, API integrations, data engineering and cybersecurity compliance for cloud-native greenfield revenue optimization and yield management platforms.",
       "url": "https://www.linkedin.com/company/ses/"
     },
     {
@@ -36,12 +36,12 @@
       "startDate": "2022-10-31",
       "endDate": "2023-06-30",
       "highlights": [],
-      "summary": "Azure architecture and workload remediation for Azure Tenant Baseline NIST cybersecurity control implementations across organizational divisions.<br /><br />Built artifacts including assessment and remediation code, architectures and documentation. Escalated security concerns with engineering groups, trained technical teams, executed technical work and resolved advanced technical issues.",
+      "summary": "Azure architecture and workload remediation for Azure Tenant Baseline NIST cybersecurity control implementations across organizational divisions. Built artifacts including assessment and remediation code, architectures and documentation. Escalated security concerns with engineering groups, trained technical teams, executed technical work and resolved advanced technical issues."
       "url": "https://www.linkedin.com/company/microsoft/"
     },
     {
       "name": "EPAM Systems",
-      "position": "Azure Migration",
+      "position": "Lead Azure Architect",
       "startDate": "2022-01-31",
       "endDate": "2022-04-30",
       "highlights": [],
@@ -49,98 +49,44 @@
       "url": "https://www.linkedin.com/company/epam-systems/",
       "location": "Pennsylvania, United States"
     },
+
     {
       "name": "Microsoft",
-      "position": "Global Cloud Solution Architect",
-      "startDate": "2021-04-30",
+      "position": "Global Cloud Solution Architect | Customer Success",
+      "startDate": "2015-11-30",
       "endDate": "2021-12-31",
       "highlights": [],
-      "summary": "Customer Success | Azure Architecture | AppDev Innovation focus",
-      "url": "https://www.linkedin.com/company/microsoft/"
-    },
-    {
-      "name": "Microsoft",
-      "position": "Senior Cloud Solution Architect",
-      "startDate": "2019-07-31",
-      "endDate": "2021-04-30",
-      "highlights": [],
-      "summary": "I help Microsoft customers succeed on Azure with architecture design, proofs of concept and pilots, hackathons, and ongoing strategic technology engagement and leadership.",
-      "url": "https://www.linkedin.com/company/microsoft/"
-    },
-    {
-      "name": "Microsoft",
-      "position": "Program Manager - Azure Cosmos DB",
-      "startDate": "2020-02-28",
-      "endDate": "2020-07-31",
-      "highlights": [],
-      "summary": "Program Manager with the Azure Cosmos DB Product Group. Time-bound career development / role rotation program through which Microsoft provides technical employees world-wide the opportunity to experience HQ/product roles.\nIn this role, I created documentation, sample code, hands-on labs, demo applications, blog posts and other deliverables to help developers and customers succeed on Cosmos DB.",
-      "url": "https://www.linkedin.com/company/microsoft/"
-    },
-    {
-      "name": "Microsoft",
-      "position": "Cloud Solution Architect",
-      "startDate": "2015-11-30",
-      "endDate": "2019-07-31",
-      "highlights": [],
-      "summary": "I help Microsoft customers succeed on Azure with architecture design, proofs of concept and pilots, hackathons, and ongoing technical engagement and leadership.",
+      "summary": "Technical lead for enterprise Azure client mission-critical projects. Led solution architecture, technical delivery and represented clients to product engineering groups. Led solution development, technical training, hackathons, and executive briefings. \n Cloud Solution Architect in Global, National, Regional and Financial Services Industry roles. Member of Azure Mission-Critical team that created reference architectures and deploy-ready deliverables published to Microsoft Learn. Selected for Senior Technical Leadership Program and Quest Engineering Rotation. \n Notable successes included retail store floor map flow and dwell analysis using store video and Azure Cognitive Services, which led to significant Azure commitment; high-volume financial document analytics; infosec-driven compute refresh automation in highly complex financial industry context; multiple competitive cloud wins; more. \n Program Manager with Azure Cosmos DB engineering group. Delivered deploy-ready sample applications and contributed to product documentation and code libraries.",
       "url": "https://www.linkedin.com/company/microsoft/",
-      "location": "Northeast US"
+      "location": "US"
     },
     {
-      "name": "Cloud NH Meetup",
-      "position": "Founder and Organizer",
-      "startDate": "2018-02-28",
-      "endDate": "2020-02-28",
-      "highlights": [],
-      "summary": "Join us at: https://www.meetup.com/CloudNH\n\nNew Hampshire's first meetup focused on the public clouds! We meet monthly for technical sessions that center around architecting, developing, and delivering solutions on the major public clouds (AWS, Azure, GCP).\n\nI founded the meetup and brought on two co-organizers. I have also delivered several deep technical sessions.",
-      "url": "",
-      "location": "Manchester, New Hampshire"
-    },
-    {
-      "name": "4D Technologies",
-      "position": "Director of Technology and Platforms / Lead Developer",
+      "name": "4D Technologies CADLearning",
+      "position": "Director of Technology / Lead Developer",
       "startDate": "2012-11-30",
       "endDate": "2015-11-30",
       "highlights": [],
-      "summary": "Architected, developed, and implemented SaaS platform for leading e-learning provider. Migrated entire platform to cloud with zero unplanned downtime. Built automated system and pipelines to ingest, process, transcode, and deploy content, video, and media to customers, partners, and publishers world-wide.\n\nConsolidated customer content and data from 120+ unique web sites and repositories into multi-tenant web portal, master data repository, and customer-available data warehouse.\n\nBuilt and led dev/ops team. Maintained technology roadmap and strategy to drive team and leadership planning. Instituted consistent support and development practices and metrics, resulting in ongoing 99%+ customer satisfaction ratings. Automated deployment processes, improving quality and delivery velocity.",
+      "summary": "Led zero-downtime migration of customer platforms to AWS. Modernized digital content creation platforms, analytics and reporting, and built partner integration APIs. Built technology team and roadmap. Created operations and support capabilities resulting in ongoing customer satisfaction ratings > 99% and systems uptime > 99.9%.",
       "url": "https://www.linkedin.com/company/cadlearning/",
       "location": "NH"
     },
     {
       "name": "Net Gain Solutions",
-      "position": "Consultant",
-      "startDate": "2003-12-31",
+      "position": "Principal Consultant",
+      "startDate": "2006-12-31",
       "endDate": "2014-12-31",
       "highlights": [],
-      "summary": "Provide IT consulting including software and database development, cloud/SaaS integration and transition, and strategy/IT operations. Details available.\n\nClients/engagement include:\n- Borealis Ventures\n- Middle East Bakery\n- Nexamp Inc.\n- Horizon Beverage Company\n- American Health Centers, Inc.\n- Liberty International Underwriters\n- Override\n- C&J\n- Global Relief Technologies\n- Fidelity Investments",
-      "url": ""
-    },
-    {
-      "name": "Override",
-      "position": "Sr. Developer (Consultant)",
-      "startDate": "2009-12-31",
-      "endDate": "2011-12-31",
-      "highlights": [],
-      "summary": "Developed/maintained web services for B2B integrations; internal applications; and test suites.\n\nDesigned scaling and archival strategy for large financial databases. Built continuous integration environment and development/testing environments with domain, virtualized data and application nodes, and load balancing.",
+      "summary": "Technical project engagements including client/API .NET/C# development, DevOps, data engineering and design, BI and analytics, off-the-shelf system implementations. Clients included Fidelity Investments, Horizon Beverage Company, C&J Bus Lines, Borealis Ventures, Nexamp, American Health Centers, Liberty International, Override, Middle East Bakery.",
       "url": ""
     },
     {
       "name": "Global Relief Technologies",
-      "position": "Senior Developer (Consultant)",
+      "position": "Lead Developer",
       "startDate": "2007-12-31",
       "endDate": "2009-12-31",
       "highlights": [],
-      "summary": "Led team that delivered web application to manage supply chain and performance data for active force protection systems deployed to combat theaters. Maintained parallel release tracks.\n\nImplemented iterative lifecycle and ALM solution. Budgeted and implemented development environment and document management solution with secure external partner access.",
+      "summary": "Led development team that delivered supply chain performance management applications for US DoD force protection systems deployed in combat theaters.",
       "url": "https://www.linkedin.com/company/global-relief-technologies/"
-    },
-    {
-      "name": "OneSourceID",
-      "position": "Architect/developer",
-      "startDate": "2007-12-31",
-      "endDate": "2007-12-31",
-      "highlights": [],
-      "summary": "Designed and implemented prototype multi-factor authentication system to eliminate proprietary hardware tokens and comply with updated financial industry data protection regulations.",
-      "url": ""
     },
     {
       "name": "Message Secure Corporation",
@@ -148,34 +94,34 @@
       "startDate": "2005-12-31",
       "endDate": "2005-12-31",
       "highlights": [],
-      "summary": "Created IT Operations and Compliance departments at financial-industry security provider. Led response to federal (FDIC, FFIEC) examination.\n\nInitiated COBIT IT control framework implementation for SAS 70 certification process.",
+      "summary": "Created IT Operations and Compliance teams at financial-industry technology provider. Led successful response to federal (FDIC, FFIEC) examinations. Initiated COBIT IT control framework implementation for SAS 70 certification process.",
       "url": "https://www.linkedin.com/company/message-secure-corporation/"
     },
     {
       "name": "Trade Wings Inc.",
-      "position": "Lead Developer, IT Manager",
+      "position": "Lead Developer, Director of Technology",
       "startDate": "2000-12-31",
       "endDate": "2005-12-31",
       "highlights": [],
-      "summary": "Developed web-based supply-chain and procurement software used internally and by clients. Co-created novel algorithms for inventory visibility and procurement optimization, which enabled new customer wins.\n\nManaged IT operations and infrastructure. Helped achieve ISO 9001:2000 certification.",
-      "url": "https://www.linkedin.com/company/trade-wings/"
-    },
-    {
-      "name": "Furniture.com",
-      "position": "Senior Developer",
-      "startDate": "1998-12-31",
-      "endDate": "2000-12-31",
-      "highlights": [],
-      "summary": "Built leading B2C site with numerous releases in fast-paced environment; promoted to team lead.",
+      "summary": "Built web-based supply chain and procurement platform. Co-created supply chain optimization algorithms which yielded double-digit % cost savings for manufacturing customers. Team member for successful ISO 9001:2000 certification.",
       "url": ""
     },
     {
-      "name": "CGI (was Deloitte Consulting/DRT Systems)",
-      "position": "Consultant",
+      "name": "Furniture.com",
+      "position": "Senior Developer, Development Manager",
+      "startDate": "1998-12-31",
+      "endDate": "2000-12-31",
+      "highlights": [],
+      "summary": "Built leading B2C e-commerce site. Staffed and led web development team.",
+      "url": ""
+    },
+    {
+      "name": "Deloitte & Touche / DRT Systems",
+      "position": "Developer",
       "startDate": "1998-12-31",
       "endDate": "1998-12-31",
       "highlights": [],
-      "summary": "Member of team that developed Liberty Mutual’s first web/Java claims-processing application.",
+      "summary": "Member of development team that built Liberty Mutual Insurance’s first Java and web insurance claims processing platform.",
       "url": ""
     },
     {
@@ -184,7 +130,7 @@
       "startDate": "1998-12-31",
       "endDate": "1998-12-31",
       "highlights": [],
-      "summary": "Created pop star’s first B2C site (www.bowieart.com), validating later Bowie online ventures.",
+      "summary": "Built pop star’s first B2C web site, bowieart.com, whose success validated later Bowie online investments. Implemented online purchasing and payment processing.",
       "url": ""
     },
     {
@@ -193,7 +139,7 @@
       "startDate": "1996-12-31",
       "endDate": "1998-12-31",
       "highlights": [],
-      "summary": "Managed IT infrastructure, operations, and web site. Implemented client infrastructure.",
+      "summary": "Managed organization and client infrastructure, operations, and web sites.",
       "url": "https://www.linkedin.com/company/artificial-life/",
       "location": "Boston, MA"
     },
@@ -203,7 +149,7 @@
       "startDate": "1995-12-31",
       "endDate": "1996-12-31",
       "highlights": [],
-      "summary": "Performed Clean Air Act plant audits, permitting, and compliance for clients like General Motors.\nCreated first company web site. Got budget approved and deployed network and infrastructure.",
+      "summary": "Performed Clean Air Act plant audits, permitting, plume impact analysis, and compliance for clients including General Motors. Built first company web site.",
       "url": "",
       "location": "Lowell, MA"
     }
