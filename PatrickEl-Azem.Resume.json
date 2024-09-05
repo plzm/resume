@@ -2,15 +2,15 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Patrick El-Azem",
-    "label": "Cloud Architecture, Software Development, Applied AI and Analytics, Data Engineering, DevOps/Automation and Cybersecurity",
+    "label": "Strategy + Execution in Cloud | Data/AI | Dev/Ops | Architecture | Engineering",
     "image": "",
     "email": "p@elazem.com",
     "phone": "",
     "url": "",
-    "summary": "About Me \n Experienced, personable hands-on technologist focused on rapid, pragmatic, iterative delivery. Multi-certified Azure expert. \n Cloud Architecture, Software Development, Applied AI and Analytics, Data Engineering, DevOps/Automation and Cybersecurity. \n Skilled technical seller, consultant, presenter. I listen, learn, create clarity, and help to deliver success. \n Objective \n Technical lead/delivery role in product/platform engineering and program management, technical sales, consulting. Hybrid or Remote. \n Domains: cloud, architecture, data/applied AI, development/DevOps, integration/automation.",
+    "summary": "GitHub - https://github.com/plzm\nBlog - https://plzm.blog\nCertifications - see my LinkedIn profile, Certifications section",
     "location": {
       "countryCode": "US",
-      "address": "United States"
+      "address": "Greater Boston Area"
     },
     "profiles": [
       {
@@ -22,71 +22,123 @@
   },
   "work": [
     {
-      "name": "SES Satellites",
-      "position": "Cloud Architect, DevOps Engineer, Data Engineer",
-      "startDate": "2022-05-31",
-      "endDate": "2023-12-08",
+      "name": "Google",
+      "position": "Data Analytics Strategy Lead, East US/Canada",
+      "startDate": "2024-05-31",
+      "endDate": "",
       "highlights": [],
-      "summary": "Azure architecture, DevOps engineering, infrastructure automation, .NET/Python development, API integrations, data engineering and cybersecurity compliance for cloud-native greenfield revenue optimization and yield management platforms.",
+      "url": "https://www.linkedin.com/company/google/"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Technical Program Manager, Cloud Cybersecurity",
+      "startDate": "2022-10-31",
+      "endDate": "2024-05-31",
+      "highlights": [],
+      "summary": "Microsoft Security | Digital Security & Risk Engineering\n\nCybersecurity platform and Azure Tenant Baseline control design and internal org-wide deployment. \n\nCreated architectures, documentation and remediation artifacts. Escalated with engineering groups, trained technical teams, and led advanced technical work.",
+      "url": "https://www.linkedin.com/company/microsoft/"
+    },
+    {
+      "name": "SES Satellites",
+      "position": "Cloud Architect + DevOps Lead",
+      "startDate": "2022-05-31",
+      "endDate": "2023-12-31",
+      "highlights": [],
+      "summary": "Azure architecture, DevOps engineering, infrastructure automation, .NET/Python development, integration, data engineering and cybersecurity compliance for cloud-native greenfield revenue optimization and yield management platforms.",
       "url": "https://www.linkedin.com/company/ses/"
     },
     {
       "name": "Microsoft",
-      "position": "Azure Cybersecurity Engineer",
-      "startDate": "2022-10-31",
-      "endDate": "2023-06-30",
+      "position": "Global Cloud Solution Architect",
+      "startDate": "2021-04-30",
+      "endDate": "2021-12-31",
       "highlights": [],
-      "summary": "Azure architecture and workload remediation for Azure Tenant Baseline NIST cybersecurity control implementations across organizational divisions. Built artifacts including assessment and remediation code, architectures and documentation. Escalated security concerns with engineering groups, trained technical teams, executed technical work and resolved advanced technical issues."
+      "summary": "Customer Success | Azure Architecture | AppDev Innovation focus",
       "url": "https://www.linkedin.com/company/microsoft/"
     },
     {
-      "name": "EPAM Systems",
-      "position": "Lead Azure Architect",
-      "startDate": "2022-01-31",
-      "endDate": "2022-04-30",
+      "name": "Microsoft",
+      "position": "Senior Cloud Solution Architect",
+      "startDate": "2019-07-31",
+      "endDate": "2021-04-30",
       "highlights": [],
-      "summary": "Led Azure architecture and migration process design on financial-industry datacenter-to-Azure application migration projects.",
-      "url": "https://www.linkedin.com/company/epam-systems/",
-      "location": "Pennsylvania, United States"
+      "summary": "Technical lead for enterprise Azure clients mission-critical Azure projects. Led solution architecture, technical delivery and represented clients to product engineering groups. Led solution development, technical training, hackathons, and executive briefings.\n\nNotable successes included retail store floor map flow and dwell analysis using store video and Microsoft AI Cognitive Services; high-volume financial document analytics using Microsoft AI Cognitive Services; infosec-driven compute refresh automation in highly complex financial industry context; multiple competitive cloud wins; more.",
+      "url": "https://www.linkedin.com/company/microsoft/"
     },
-
     {
       "name": "Microsoft",
-      "position": "Global Cloud Solution Architect | Customer Success",
-      "startDate": "2015-11-30",
-      "endDate": "2021-12-31",
+      "position": "Program Manager - Azure Cosmos DB",
+      "startDate": "2020-02-28",
+      "endDate": "2020-07-31",
       "highlights": [],
-      "summary": "Technical lead for enterprise Azure client mission-critical projects. Led solution architecture, technical delivery and represented clients to product engineering groups. Led solution development, technical training, hackathons, and executive briefings. \n Cloud Solution Architect in Global, National, Regional and Financial Services Industry roles. Member of Azure Mission-Critical team that created reference architectures and deploy-ready deliverables published to Microsoft Learn. Selected for Senior Technical Leadership Program and Quest Engineering Rotation. \n Notable successes included retail store floor map flow and dwell analysis using store video and Azure Cognitive Services, which led to significant Azure commitment; high-volume financial document analytics; infosec-driven compute refresh automation in highly complex financial industry context; multiple competitive cloud wins; more. \n Program Manager with Azure Cosmos DB engineering group. Delivered deploy-ready sample applications and contributed to product documentation and code libraries.",
-      "url": "https://www.linkedin.com/company/microsoft/",
-      "location": "US"
+      "summary": "Program Manager with the Azure Cosmos DB Product Group. Time-bound career development / role rotation program through which Microsoft provides technical employees world-wide the opportunity to experience HQ/product roles.\nIn this role, I created documentation, sample code, hands-on labs, demo applications, blog posts and other deliverables to help developers and customers succeed on Cosmos DB.",
+      "url": "https://www.linkedin.com/company/microsoft/"
     },
     {
-      "name": "4D Technologies CADLearning",
-      "position": "Director of Technology / Lead Developer",
+      "name": "Microsoft",
+      "position": "Cloud Solution Architect",
+      "startDate": "2015-11-30",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": "I help Microsoft customers succeed on Azure with architecture design, proofs of concept and pilots, hackathons, and ongoing technical engagement and leadership.",
+      "url": "https://www.linkedin.com/company/microsoft/",
+      "location": "Northeast US"
+    },
+    {
+      "name": "Cloud NH Meetup",
+      "position": "Founder and Organizer",
+      "startDate": "2018-02-28",
+      "endDate": "2020-02-28",
+      "highlights": [],
+      "summary": "Join us at: https://www.meetup.com/CloudNH\n\nNew Hampshire's first meetup focused on the public clouds! We meet monthly for technical sessions that center around architecting, developing, and delivering solutions on the major public clouds (AWS, Azure, GCP).\n\nI founded the meetup and brought on two co-organizers. I have also delivered several deep technical sessions.",
+      "url": "",
+      "location": "Manchester, New Hampshire"
+    },
+    {
+      "name": "4D Technologies",
+      "position": "Director of Technology and Platforms / Lead Developer",
       "startDate": "2012-11-30",
       "endDate": "2015-11-30",
       "highlights": [],
-      "summary": "Led zero-downtime migration of customer platforms to AWS. Modernized digital content creation platforms, analytics and reporting, and built partner integration APIs. Built technology team and roadmap. Created operations and support capabilities resulting in ongoing customer satisfaction ratings > 99% and systems uptime > 99.9%.",
+      "summary": "Architected, developed, and implemented SaaS platform for leading e-learning provider. Migrated entire platform to cloud with zero unplanned downtime. Built automated system and pipelines to ingest, process, transcode, and deploy content, video, and media to customers, partners, and publishers world-wide.\n\nConsolidated customer content and data from 120+ unique web sites and repositories into multi-tenant web portal, master data repository, and customer-available data warehouse.\n\nBuilt and led dev/ops team. Maintained technology roadmap and strategy to drive team and leadership planning. Instituted consistent support and development practices and metrics, resulting in ongoing 99%+ customer satisfaction ratings. Automated deployment processes, improving quality and delivery velocity.",
       "url": "https://www.linkedin.com/company/cadlearning/",
       "location": "NH"
     },
     {
       "name": "Net Gain Solutions",
-      "position": "Principal Consultant",
-      "startDate": "2006-12-31",
+      "position": "Consultant",
+      "startDate": "2003-12-31",
       "endDate": "2014-12-31",
       "highlights": [],
-      "summary": "Technical project engagements including client/API .NET/C# development, DevOps, data engineering and design, BI and analytics, off-the-shelf system implementations. Clients included Fidelity Investments, Horizon Beverage Company, C&J Bus Lines, Borealis Ventures, Nexamp, American Health Centers, Liberty International, Override, Middle East Bakery.",
+      "summary": "Provide IT consulting including software and database development, cloud/SaaS integration and transition, and strategy/IT operations. Details available.\n\nClients/engagement include:\n- Borealis Ventures\n- Middle East Bakery\n- Nexamp Inc.\n- Horizon Beverage Company\n- American Health Centers, Inc.\n- Liberty International Underwriters\n- Override\n- C&J\n- Global Relief Technologies\n- Fidelity Investments",
+      "url": ""
+    },
+    {
+      "name": "Override",
+      "position": "Sr. Developer (Consultant)",
+      "startDate": "2009-12-31",
+      "endDate": "2011-12-31",
+      "highlights": [],
+      "summary": "Developed/maintained web services for B2B integrations; internal applications; and test suites.\n\nDesigned scaling and archival strategy for large financial databases. Built continuous integration environment and development/testing environments with domain, virtualized data and application nodes, and load balancing.",
       "url": ""
     },
     {
       "name": "Global Relief Technologies",
-      "position": "Lead Developer",
+      "position": "Senior Developer (Consultant)",
       "startDate": "2007-12-31",
       "endDate": "2009-12-31",
       "highlights": [],
-      "summary": "Led development team that delivered supply chain performance management applications for US DoD force protection systems deployed in combat theaters.",
+      "summary": "Led team that delivered web application to manage supply chain and performance data for active force protection systems deployed to combat theaters. Maintained parallel release tracks.\n\nImplemented iterative lifecycle and ALM solution. Budgeted and implemented development environment and document management solution with secure external partner access.",
       "url": "https://www.linkedin.com/company/global-relief-technologies/"
+    },
+    {
+      "name": "OneSourceID",
+      "position": "Architect/developer",
+      "startDate": "2007-12-31",
+      "endDate": "2007-12-31",
+      "highlights": [],
+      "summary": "Designed and implemented prototype multi-factor authentication system to eliminate proprietary hardware tokens and comply with updated financial industry data protection regulations.",
+      "url": ""
     },
     {
       "name": "Message Secure Corporation",
@@ -94,34 +146,34 @@
       "startDate": "2005-12-31",
       "endDate": "2005-12-31",
       "highlights": [],
-      "summary": "Created IT Operations and Compliance teams at financial-industry technology provider. Led successful response to federal (FDIC, FFIEC) examinations. Initiated COBIT IT control framework implementation for SAS 70 certification process.",
+      "summary": "Created IT Operations and Compliance departments at financial-industry security provider. Led response to federal (FDIC, FFIEC) examination.\n\nInitiated COBIT IT control framework implementation for SAS 70 certification process.",
       "url": "https://www.linkedin.com/company/message-secure-corporation/"
     },
     {
       "name": "Trade Wings Inc.",
-      "position": "Lead Developer, Director of Technology",
+      "position": "Lead Developer, IT Manager",
       "startDate": "2000-12-31",
       "endDate": "2005-12-31",
       "highlights": [],
-      "summary": "Built web-based supply chain and procurement platform. Co-created supply chain optimization algorithms which yielded double-digit % cost savings for manufacturing customers. Team member for successful ISO 9001:2000 certification.",
-      "url": ""
+      "summary": "Developed web-based supply-chain and procurement software used internally and by clients. Co-created novel algorithms for inventory visibility and procurement optimization, which enabled new customer wins.\n\nManaged IT operations and infrastructure. Helped achieve ISO 9001:2000 certification.",
+      "url": "https://www.linkedin.com/company/trade-wings/"
     },
     {
       "name": "Furniture.com",
-      "position": "Senior Developer, Development Manager",
+      "position": "Senior Developer",
       "startDate": "1998-12-31",
       "endDate": "2000-12-31",
       "highlights": [],
-      "summary": "Built leading B2C e-commerce site. Staffed and led web development team.",
+      "summary": "Built leading B2C site with numerous releases in fast-paced environment; promoted to team lead.",
       "url": ""
     },
     {
-      "name": "Deloitte & Touche / DRT Systems",
-      "position": "Developer",
+      "name": "CGI (was Deloitte Consulting/DRT Systems)",
+      "position": "Consultant",
       "startDate": "1998-12-31",
       "endDate": "1998-12-31",
       "highlights": [],
-      "summary": "Member of development team that built Liberty Mutual Insurance’s first Java and web insurance claims processing platform.",
+      "summary": "Member of team that developed Liberty Mutual’s first web/Java claims-processing application.",
       "url": ""
     },
     {
@@ -130,7 +182,7 @@
       "startDate": "1998-12-31",
       "endDate": "1998-12-31",
       "highlights": [],
-      "summary": "Built pop star’s first B2C web site, bowieart.com, whose success validated later Bowie online investments. Implemented online purchasing and payment processing.",
+      "summary": "Created pop star’s first B2C site (www.bowieart.com), validating later Bowie online ventures.",
       "url": ""
     },
     {
@@ -139,7 +191,7 @@
       "startDate": "1996-12-31",
       "endDate": "1998-12-31",
       "highlights": [],
-      "summary": "Managed organization and client infrastructure, operations, and web sites.",
+      "summary": "Managed IT infrastructure, operations, and web site. Implemented client infrastructure.",
       "url": "https://www.linkedin.com/company/artificial-life/",
       "location": "Boston, MA"
     },
@@ -149,7 +201,7 @@
       "startDate": "1995-12-31",
       "endDate": "1996-12-31",
       "highlights": [],
-      "summary": "Performed Clean Air Act plant audits, permitting, plume impact analysis, and compliance for clients including General Motors. Built first company web site.",
+      "summary": "Performed Clean Air Act plant audits, permitting, and compliance for clients like General Motors.\nCreated first company web site. Got budget approved and deployed network and infrastructure.",
       "url": "",
       "location": "Lowell, MA"
     }
@@ -201,85 +253,90 @@
   ],
   "certificates": [
     {
-      "name": "Please see LinkedIn profile for full list",
-      "issuer": "Multiple",
-      "url": "https://www.linkedin.com/in/pelazem/details/certifications/"
+      "name": "MCSD: Azure Solutions Architect",
+      "issuer": "Microsoft",
+      "startDate": "2016-08-31",
+      "url": "https://www.microsoft.com/en-us/learning/mcsd-azure-architect-certification.aspx"
+    },
+    {
+      "name": "MCSE: Cloud Platform and Infrastructure (2016)",
+      "issuer": "Microsoft",
+      "startDate": "2016-09-30",
+      "url": "https://www.credly.com/badges/73006537-7b89-48f8-9919-9b8a2072caf9/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified Professional: Design and Implement Big Data Analytics Solutions | 70-475",
+      "issuer": "Microsoft",
+      "startDate": "2016-11-30",
+      "url": "https://www.credly.com/badges/f14d444d-2693-45b9-993b-d61011040b65/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified Professional: Design and Implement Cloud Data Platform Solutions | 70-473",
+      "issuer": "Microsoft",
+      "startDate": "2016-03-31",
+      "url": "https://www.credly.com/badges/6daea981-3aec-4feb-9f7d-08f6bbb1276c/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified Professional: Architecting Microsoft Azure Solutions | 70-534",
+      "issuer": "Microsoft",
+      "startDate": "2016-08-31",
+      "url": "https://www.youracclaim.com/badges/12911fa0-3a3b-4589-a182-0fa808d6ecb1/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified Professional: Implementing Microsoft Azure Infrastructure Solutions | 70-533",
+      "issuer": "Microsoft",
+      "startDate": "2016-08-31",
+      "url": "https://www.credly.com/badges/70ee353a-ba7a-4140-b515-f56dcf031e51/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified Professional: Programming in C# | 70-483",
+      "issuer": "Microsoft",
+      "startDate": "2016-11-30",
+      "url": "https://www.credly.com/badges/a029d120-7b46-4c90-b755-193c71499271/linked_in_profile"
+    },
+    {
+      "name": "Cloud Platform University: Practical Data Analytics with the Microsoft Cortana Intelligence Suite",
+      "issuer": "Microsoft",
+      "startDate": "2016-07-31",
+      "url": "https://www.credly.com/badges/cbd3e92d-f045-4457-b4b1-e8b6737bb786/linked_in_profile"
+    },
+    {
+      "name": "MCSA: Cloud Platform",
+      "issuer": "Microsoft",
+      "startDate": "2016-09-30",
+      "url": "https://www.credly.com/badges/c2821f03-70a6-4127-b25b-5acc06575ba7/linked_in_profile"
+    },
+    {
+      "name": "edX Verified Certificate for Analyzing and Visualizing Data with Power BI | DAT207x",
+      "issuer": "edX",
+      "startDate": "2016-08-31",
+      "url": "https://courses.edx.org/certificates/911fcf9ec3134b3690eb8dc6bb58840a"
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": "Cloud Architecture + Design",
+      "name": "Databricks",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Development, DevOps, Scripting",
+      "name": "Lakehouse",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Applied AI + Analytics",
+      "name": "Code Review",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Data Modeling and Engineering",
+      "name": "Azure Infrastructure as a Service (IaaS)",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Infrastructure, Automation, Integration",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Technical Sales, Consulting, Presenting",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Team Leadership + Training",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Program + Project Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Azure",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Azure AI Cognitive Services",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Azure Synapse",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Azure Cosmos DB",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Azure SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Azure App Services/Functions",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Azure Kubernetes Service",
+      "name": "Microsoft",
       "level": "",
       "keywords": []
     },
@@ -289,27 +346,17 @@
       "keywords": []
     },
     {
-      "name": ".NET/C#",
+      "name": "Software Project Management",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Git/GitHub",
+      "name": ".NET",
       "level": "",
       "keywords": []
     },
     {
-      "name": "GitHub Actions",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
+      "name": "Debugging",
       "level": "",
       "keywords": []
     },
@@ -319,7 +366,7 @@
       "keywords": []
     },
     {
-      "name": "Bash",
+      "name": "Enterprise Architecture",
       "level": "",
       "keywords": []
     },
@@ -329,7 +376,77 @@
       "keywords": []
     },
     {
-      "name": "Azure Resource Manager (ARM) Templates",
+      "name": "Consulting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Start-ups",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Kubernetes Service (AKS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
       "level": "",
       "keywords": []
     },
@@ -339,7 +456,22 @@
       "keywords": []
     },
     {
+      "name": "Azure Databricks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Application Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud-Native Architecture",
       "level": "",
       "keywords": []
     },
@@ -349,7 +481,32 @@
       "keywords": []
     },
     {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Capital Markets",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Framework",
       "level": "",
       "keywords": []
     },
@@ -380,6 +537,21 @@
     },
     {
       "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Cosmos DB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure",
       "level": "",
       "keywords": []
     },
@@ -438,7 +610,7 @@
       "reference": "Patrick is a great leader of technology teams, understands sophisticated technical barriers and strives for technological breakthroughs.  He continues to demonstrate a high level of technical expertise and recognizes the value of technical team dynamics. He ROCKS! \r\n\r\nDr. BonnieJean Butler, President\r\nButler Global Consulting"
     },
     {
-      "name": "Jamie Lesniak",
+      "name": "Jamie Casey",
       "reference": "Affordable IT solutions for all size companies!  Patrick help C&J accomplish our needs as well as worked as a liason between other IT company dealings.  Trustworthy, and upfront in all aspects."
     },
     {
